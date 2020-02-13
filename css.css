@@ -1,0 +1,59 @@
+*{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+.online{
+	background-color: green;
+	color: white;
+	font-weight: bolder;
+}
+
+.offline{
+	background-color: red;
+	font-weight: bolder;
+}
+
+table {
+	border-collapse: collapse;
+}
+table, td {
+	border: 1px solid white;
+}
+
+.header{
+	background-color: white;
+	color: black;
+	font-weight: bolder;
+}
+
+.divs{
+	float: left;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.terceiro{
+	background-color: gray;
+	color: white;
+	font-weight: bolder;
+}
+
+#on{
+	background-color: green;
+}
+#off{
+	background-color: red;
+}
+
+.total{
+	float: bottom; 
+}
+
+#monitoramento{
+	font-size: 20px;
+	position: absolute;
+	top: 40%;
+	left: 35%;
+}
