@@ -49,8 +49,6 @@ function start(){
 	];
 
 	var links2 = [
-		{ nome: "espera", ip: "189.57.179.62", tipo: 80 },
-		{ nome: "gateway", ip: "200.153.45.73", tipo: 80 },
 		{ nome: "mario", ip: "VENDASNOVOS14", tipo: 135 },
 		{ nome: "gertec", ip: "192.168.0.50", tipo: 80 },
 	];
